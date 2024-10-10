@@ -1,0 +1,26 @@
+.p-t {
+	padding-top: 20px;
+}
+.p-b {
+	padding-bottom: 20px;
+}
+.m-20 {
+	margin: 20px;
+}
+.bg-white {
+	background-color: white;
+}
+.rad-6 {
+	border-radius: 6px;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	-ms-border-radius: 6px;
+	-o-border-radius: 6px;
+}
+.rad-half {
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-ms-border-radius: 50%;
+	-o-border-radius: 50%;
+}
